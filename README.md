@@ -10,7 +10,7 @@ virtualización y despliegue de aplicaciones.
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
 Soy técnico con experiencia en soporte informático, sistemas,
 infraestructura tecnológica y gestión operativa.
@@ -25,7 +25,7 @@ para crecer.
 
 ---
 
-## 🚀 Desarrollo
+## Desarrollo
 
 ### Stack principal
 
@@ -51,7 +51,7 @@ para crecer.
 
 ---
 
-## 🖥️ Infraestructura
+## Infraestructura
 
 También trabajo sobre la infraestructura necesaria para ejecutar
 y mantener las aplicaciones.
@@ -69,7 +69,7 @@ y mantener las aplicaciones.
 
 ---
 
-## 🔀 Git y control de versiones
+## Git y control de versiones
 
 Utilizo Git para mantener los proyectos organizados y controlar
 la evolución del código.
@@ -84,7 +84,7 @@ la evolución del código.
 
 ---
 
-🛠️ Proyectos
+Proyectos
 
 He desarrollado sistemas y soluciones informáticas orientadas a
 diferentes necesidades de gestión y administración.
@@ -97,7 +97,7 @@ diferentes necesidades de gestión y administración.
 
 ---
 
-## 💼 Áreas de desarrollo
+## Áreas de desarrollo
 
 Experiencia en el desarrollo de soluciones para:
 
@@ -113,7 +113,7 @@ Experiencia en el desarrollo de soluciones para:
   
 ---
 
-## 📚 Actualmente
+## Actualmente
 
 Estoy trabajando y profundizando en:
 
@@ -128,13 +128,13 @@ Estoy trabajando y profundizando en:
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 **Roberto García**
 
-📍 Gualeguaychú, Entre Ríos, Argentina
+Gualeguaychú, Entre Ríos, Argentina
 
-💬 WhatsApp: 3446 378078
+WhatsApp: 3446 378078
 
 ---
 
