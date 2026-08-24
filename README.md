@@ -89,7 +89,7 @@ Proyectos
 He desarrollado sistemas y soluciones informáticas orientadas a
 diferentes necesidades de gestión y administración.
 
-- **Sistema-PAS** — Administración y gestión de carteras.
+- **Sistema-PAS** — Administración y gestión de carteras de Productores Asesores de Seguros.
 - **Turnera-Express** — Gestión de turnos y atención al público.
 - **Super-Market** — Facturación y gestión para supermercados.
 - **Sistemas para Estudios Jurídicos** — Gestión y administración
